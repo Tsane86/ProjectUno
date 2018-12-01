@@ -209,6 +209,10 @@ margin-right: auto;
         margin-bottom: 0;
     }
 
+    .hero-image {
+        height:300px;
+   }
+
     nav li:first-child a {
         margin-left: 0;
     }
@@ -259,6 +263,10 @@ margin-right: auto;
 /* ============
     WIDE: Main
    ============ */
+
+   .hero-image {
+        height:500px;
+   }
 
     .main article {
         float: left;
